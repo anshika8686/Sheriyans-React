@@ -1,0 +1,25 @@
+.services-section {
+  padding: 80px;
+  background-color: #f8f8f8;
+}
+
+.services-text {
+  max-width: 500px;
+}
+
+.services-text h2 {
+  margin-bottom: 15px;
+}
+
+.services-text p {
+  margin-bottom: 20px;
+}
+
+.services-btn {
+  padding: 10px 25px;
+  border-radius: 20px;
+  border: none;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
